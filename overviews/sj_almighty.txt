@@ -1,0 +1,14 @@
+// overview description file for sj_almighty.bsp
+
+global 
+{
+	ZOOM	0.57
+	ORIGIN  0   0 	-4
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/sj_almighty.bmp"
+	HEIGHT	-4201
+}

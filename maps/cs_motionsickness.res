@@ -1,0 +1,2 @@
+maps\cs_motionsickness.bsp
+maps\cs_motionsickness.txt

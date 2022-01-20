@@ -1,0 +1,13 @@
+maps/jail_new_galaxy_v1.res
+maps/jail_new_galaxy_v1.txt
+models/tree01.mdl
+sound/galaxypuchy/ambluermx.wav
+sound/galaxypuchy/bprendido.wav
+sound/galaxypuchy/click.wav
+sound/galaxypuchy/lajeepetax.wav
+sound/galaxypuchy/risa.wav
+sound/galaxypuchy/shot.wav
+sound/galaxypuchy/spin.wav
+sound/galaxypuchy/trapeax.wav
+sound/galaxypuchy/123.wav
+sprites/fire3.spr

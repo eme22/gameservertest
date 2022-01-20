@@ -1,0 +1,2 @@
+maps/gg_zobel_glasslab_breakable.txt
+maps/gg_zobel_glasslab_breakable.res

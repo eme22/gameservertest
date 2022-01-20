@@ -1,0 +1,14 @@
+// overview description file for jb_eRaTaiwan_hotel.bsp
+
+global 
+{
+	ZOOM	0.99
+	ORIGIN	64 	-224	-32
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/jb_eRaTaiwan_hotel.bmp"
+	HEIGHT	-961
+}

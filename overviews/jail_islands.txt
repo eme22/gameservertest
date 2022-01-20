@@ -1,0 +1,17 @@
+///////////////////////////
+//      jail_islands	 //
+//      BY FedeeRG4L 	 //
+///////////////////////////
+
+global 
+{
+	ZOOM	1.70
+	ORIGIN	858.00, 121.00, 383.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/jail_islands.bmp"
+	HEIGHT	-387.00
+}

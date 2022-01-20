@@ -1,0 +1,11 @@
+maps/surf_water-run_rmk.bsp
+maps/surf_water-run_rmk.res
+gfx/env/grnplsntbk.tga
+gfx/env/grnplsntdn.tga
+gfx/env/grnplsntft.tga
+gfx/env/grnplsntlf.tga
+gfx/env/grnplsntrt.tga
+gfx/env/grnplsntup.tga
+halflife.wad
+surf_water-run_v2.wad
+timecounter.wad
